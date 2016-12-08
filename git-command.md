@@ -1,5 +1,13 @@
 # Github command using
 
+
+clone a repository
+
+```github
+git clone git@github.com:iwsed/YourConcept.git
+```
+
+
 To add new files to the repository or add changed files to staged area:
 
 ```github
