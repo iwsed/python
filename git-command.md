@@ -9,7 +9,7 @@ To add new files to the repository or add changed files to staged area:
 To commit them:
 
 ```github
-$ git commit
+$ git commit -m "description"
 ```
 
 To commit unstaged but changed files:
